@@ -10,7 +10,8 @@ I have project experience using Python(My most confident language)
 ### 🔭Career
 |Type|Date|Contents|Organization|
 |------|---|---|---|
-|EduTech|2020.11 ~|Integrated MOOC Certificate Management Platform|Droot|
+|🎓Eductaion|2019.03 ~|Business administration, Computer science|hankuk university of foreign studies|
+|🏢Employment|2020.11 ~|SW Engineer, Product designer|Droot|
 
 ### 📬 Contacts
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seong-yun-byeon-8183a8113/)](https://www.linkedin.com/in/yonghun-park/)
