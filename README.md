@@ -2,7 +2,7 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyw9142&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-👋 My name is Yonghun, I am a developer working at Droot
+👋 My name is Yonghun
 
 My major is business administration📚, and I have been studying computer science💻 since 2020.
 I have project experience using Python(My most confident language)
