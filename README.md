@@ -13,6 +13,7 @@ I have project experience using Python(My most confident language)
 |🎓Eductaion|2019.03 ~|Business administration, Computer science|hankuk university of foreign studies|
 |🏢Employment|2020.11 ~ 2021.06|SW Engineer, Product designer|Droot|
 |💻Freelancer|2021.06 ~ |Project Manager|Coderecipe|
+|💻Employment|2021.09 ~ |Sw Engineer|Propwave|
 
 ### 📬 Contacts
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seong-yun-byeon-8183a8113/)](https://www.linkedin.com/in/yonghun-park/)
