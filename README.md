@@ -12,7 +12,7 @@ I have project experience using Python(My most confident language)
 |------|---|---|---|
 |🎓Eductaion|2019.03 ~|Business administration, Computer science|hankuk university of foreign studies|
 |🏢Employment|2020.11 ~ 2021.06|SW Engineer, Product designer|Droot|
-|💻Freelancer|2021.06 ~ |Project Manager|Coderecipe|
+|💻Freelancer|2021.06 ~ 2021.10|Project Manager|Coderecipe|
 |💻Employment|2021.09 ~ |Sw Engineer|Propwave|
 
 ### 📬 Contacts
