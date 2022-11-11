@@ -5,6 +5,7 @@
 ### 🔭Career
 |Type|Date|Contents|Organization|
 |------|---|---|---|
+|✈️Military service|2022.05 ~ 2024.02|Signaller|Airforce|
 |🎓Eductaion|2019.03 ~|Business administration, Computer science|hankuk university of foreign studies|
 |🏢Employment|2020.11 ~ 2021.06|Product designer|Droot|
 |💻Freelancer|2021.06 ~ 2021.10|Project Manager|Coderecipe|
